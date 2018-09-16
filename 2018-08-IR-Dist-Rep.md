@@ -11,23 +11,23 @@ Skip-gram model has achieved good performance in learning "high-quality vector r
 ## Approach
 Objective function of skip-gram:
 
-<img src="../images/skipgram.png" width="300">
+<img src="images/skipgram.png" width="300">
 
 specifically, through softmax layer, p looks like:
 
-<img src="../images/skipgramp.png" width="300"> 
+<img src="images/skipgramp.png" width="300"> 
 
 - Hierarchical softmax
 
 Hierachical softmax uses a binary tree to present the output layer rather than a plat output of all W words for output dimension reduction. So that the computing would be much more efficient. The method is to replace the softmax layer with:
 
-<img src="../images/hs.png" width="400"> 
+<img src="images/hs.png" width="400"> 
 
 - Negative sampling
 
 Another technique to speedup training process, inspired by Noise Constractive Estimation (NCE). The basic idea is sample one "accruate" data P(1) and k noise data P(0), the objective is to maximum their conditional log-likelihood:
 
-<img src="../images/ns.png" width="400"> 
+<img src="images/ns.png" width="400"> 
 
 Note that the method is only for word representation rather than classification.
 
@@ -35,7 +35,7 @@ Note that the method is only for word representation rather than classification.
 
 There is imbalance between the rare and frequent words. The paper suggested a simple subsampling approach, assigning each wrod a discarded probability:
 
-<img src="../images/sub.png" width="200"> 
+<img src="images/sub.png" width="200"> 
 
 where f(wi) is the frequent of word wi and t is threshold.
 
