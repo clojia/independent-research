@@ -19,3 +19,7 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 ## WEEK FOUR
 - [Learning to Forget: Continual Prediction with LSTM](https://clojia.github.io/independent_research/2018-09-IR-LSTM)
 - [Generative Adversarial Nets](https://clojia.github.io/independent_research/2018-09-IR-GANs)
+
+## WEEK Five
+- [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://clojia.github.io/independent_research/2018-09-IR-2018-09-IR-RNN-EnDecoder)
+- [On the Preperties of Neural Machine Translation: Encoder-Decoder Approaches](https://clojia.github.io/independent_research/2018-09-IR-grConv)
