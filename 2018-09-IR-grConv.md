@@ -22,5 +22,5 @@ And grConv consists of four weight matrices Wl, Wr, Gl and Gr. The gating coeffi
 
 Same as grConv, the model can handle variable input and output, also it shows that the model can learn the gramma structure automatically.
 ## Limitation 
-- perform relatively poort on unknown words and long sentences
+- perform relatively poor on unknown words and long sentences
 
