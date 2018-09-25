@@ -41,7 +41,7 @@ The score of both global and local attention model is "referred as a content-bas
 
 The paper also proposed an input-feeding approach, in order to take past alignment information into account in alignment decisions, and the structure looks like:
 
-<img src="images/input-feeding.png" width="50"> 
+<img src="images/input-feeding.png" width="300"> 
 
 
 ## Limitation 
