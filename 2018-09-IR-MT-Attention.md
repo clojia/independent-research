@@ -26,7 +26,7 @@ where the size of alignment vector "equals the number of time steps on the sourc
 
 - The structure of local attention model (based on a window context)
 
-<img src="images/local-attention.png" width="280"> 
+<img src="images/local-attention.png" width="320"> 
 
 where the size of at equals to window size. 
 
@@ -41,7 +41,7 @@ The score of both global and local attention model is "referred as a content-bas
 
 The paper also proposed an input-feeding approach, in order to take past alignment information into account in alignment decisions, and the structure looks like:
 
-<img src="images/input-feeding.png" width="300"> 
+<img src="images/input-feeding.png" width="380"> 
 
 
 ## Limitation 
