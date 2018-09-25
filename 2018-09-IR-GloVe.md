@@ -12,11 +12,11 @@ To better deal with word prepresentations: word analogy, word similarity, and na
 
 The paper combined count-based methods and prediction-based methods for the unsupervised learning of word representations, proposing a new cost function
 
-<img src="images/GloVe.png" width="400"> 
+<img src="images/GloVe.png" width="350"> 
 
 Where the weighting function f(Xij) looks like
 
-<img src="images/glove_weighting.png" width="400"> 
+<img src="images/glove_weighting.png" width="300"> 
 
 The paper introduced how they derived the function starting from simple co-occurrence probablities. And how it is related to other models such as skip-gram via cross entropy error. 
 
