@@ -23,3 +23,12 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 ## WEEK FIVE
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://clojia.github.io/independent_research/2018-09-IR-RNN-EnDecoder)
 - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](https://clojia.github.io/independent_research/2018-09-IR-grConv)
+
+
+## WEEK SIX
+- [Glove: Global Vectors for Word Representation](https://clojia.github.io/independent_research/2018-09-IR-GloVe)
+- [Effective Approaches to Attention-based Neural Machine Translation](https://clojia.github.io/independent_research/2018-09-IR-MT-Attention)
+
+## WEEK SEVEN
+- Adversarial Autoencoder
+- Neural Machine Translation by Jointly Learning to Align and Translate
