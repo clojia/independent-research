@@ -31,6 +31,7 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 
 ## WEEK 7
 - Adversarial Autoencoder
+- Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks
 
 ## WEEK 8
 - Generative OpenMax for Multi-Class Open Set Classification
