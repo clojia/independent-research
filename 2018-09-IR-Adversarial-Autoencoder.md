@@ -4,10 +4,9 @@
 Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, and Ian Goodfellow. Adversarial Autoencoders. arXiv preprint arXiv:1511.05644, 2015.
 
 ## Motivation
+The paper proposed a new inference algorithm using GAN framework which could better deal with "applications such as semi-supervised classification, disentangling style and content of images, unsupervised clustering, dimensionality reduction and data visualization".
 
+## Method
 
-## Approach
-
-
-## Limitation 
+## Limitation
 
