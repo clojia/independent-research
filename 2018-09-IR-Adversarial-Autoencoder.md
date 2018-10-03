@@ -4,9 +4,20 @@
 Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, and Ian Goodfellow. Adversarial Autoencoders. arXiv preprint arXiv:1511.05644, 2015.
 
 ## Motivation
-The paper proposed a new inference algorithm using GAN framework which could better deal with "applications such as semi-supervised classification, disentangling style and content of images, unsupervised clustering, dimensionality reduction and data visualization".
+The paper proposed a new inference algorithm Adversarial Autoencoder (AAE), which uses GAN framework which could better deal with "applications such as semi-supervised classification, disentangling style and content of images, unsupervised clustering, dimensionality reduction and data visualization".
 
 ## Method
+The algorithm aims to find a representation for graphs which follows a certain type of distribution. And it consists of two phases: Reconstruction phase and Regularization phase.
 
-## Limitation
+Reconstruction phase: Update the encoder and decoder to minimize reconstruction error. 
 
+<img src="images/reconstruction.png" width="500"> 
+
+Regularization phase: Update discriminator to distinguish true prior samples
+from generated samples; update generator to fool the discriminator
+
+<img src="images/regularization.png" width="500"> 
+
+Reconstruction phase and regularization phase are referred to the generator and discriminator in GANs. 
+
+And the method could be used in semi-supervised learning and unsupervised learning.
