@@ -30,8 +30,8 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 - [Effective Approaches to Attention-based Neural Machine Translation](https://clojia.github.io/independent_research/2018-09-IR-MT-Attention)
 
 ## WEEK 7
-- Adversarial Autoencoder
-- Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks
+- [Adversarial Autoencoder](https://clojia.github.io/independent_research/2018-09-IR-Adversarial-Autoencoder)
+- [Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks](https://clojia.github.io/independent_research/2018-09-IR-Look-and-Think-Twice)
 
 ## WEEK 8
 - Generative OpenMax for Multi-Class Open Set Classification
