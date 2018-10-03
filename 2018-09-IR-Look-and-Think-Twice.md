@@ -42,8 +42,7 @@ and then update the hidden variables via gradient ascent:
 
 <img src="images/update.png" width="250"> 
 
-## Limitation 
+## Dr. Chan's concerns:
 
-Dr. Chan's concerns:
 1. The feedback loops cannot prevent multiple class sharing the same attention format
 2. not sure if there are weights from output to feedback layer
