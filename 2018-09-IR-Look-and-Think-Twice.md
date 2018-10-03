@@ -28,17 +28,22 @@ The work introduced a binary activation variable Z(0,1) instead of max() operati
 
 The paper also introduced a feedback model and its inference process. The feedback layer is stacked upon each ReLU layer, which looks like
 
-<img src="images/feedback.png" width="700"> 
+<img src="images/feedback.png" width="600"> 
 
 And the hidden neurons in feedback loops would be updated as 
 
-<img src="images/discrete_feedback.png" width="700"> 
+<img src="images/discrete_feedback.png" width="250"> 
 
-Since this leads to an integer programming problem
+Since this leads to a NP hard problem, an apporiximation could be derived by applying a linear relaxation:
+
+<img src="images/continuous_feedback.png" width="250"> 
+
+and then update the hidden variables via gradient ascent:
+
+<img src="images/update.png" width="250"> 
 
 ## Limitation 
 
-The feedback loops cannot prevent that two class share the same attention format.
-
-
-
+Dr. Chan's concerns:
+1. The feedback loops cannot prevent multiple class sharing the same attention format
+2. not sure if there are weights from output to feedback layer
