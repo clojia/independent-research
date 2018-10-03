@@ -20,4 +20,12 @@ from generated samples; update generator to fool the discriminator
 
 Reconstruction phase and regularization phase are referred to the generator and discriminator in GANs. 
 
-And the method could be used in semi-supervised learning and unsupervised learning.
+And the method could be used in semi-supervised learning and unsupervised clustering.
+
+For semi-supervised learning, there is a semi-supervised classification phase besides reconstruction phase and regularization phase. And labeled data would be trained at this stage.
+
+<img src="images/semi-supervised.png" width="500"> 
+
+which is a aggregated categorical distribution. 
+
+The architecture of unsupervised clustering is similar to semi-supervised learning, the difference is that the semi-supervised classification stage is removed and "thus no longer train the network on any labeled mini-batch".
