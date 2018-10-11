@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) | [Last](https://clojia.github.io/independent_research/2018-09-IR-Look-and-Think-Twice) | [Next]()
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) | [Last](https://clojia.github.io/independent_research/2018-09-IR-Look-and-Think-Twice) | [Next](https://clojia.github.io/independent_research/2018-09-IR-Neural-Machine-Translation)
 
 ## Index
 Z. Ge, S. Demyanov, Z. Chen, and R. Garnavi, “Generative
