@@ -18,5 +18,4 @@ The generated unknown samples also score calibrations.
 
 
 ## Limitation 
-- perform relatively poor on unknown words and long sentences
-
+- Assume that the classes from unknown open space will share some common properties with known classes.
