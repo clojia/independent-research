@@ -34,8 +34,9 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 - [Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks](https://clojia.github.io/independent_research/2018-09-IR-Look-and-Think-Twice)
 
 ## WEEK 8
-- Generative OpenMax for Multi-Class Open Set Classification
-- Neural Machine Translation by Jointly Learning to Align and Translate
+- [Generative OpenMax for Multi-Class Open Set Classification](https://clojia.github.io/independent_research/2018-09-IR-G-OpenMax)
+- [Neural Machine Translation by Jointly Learning to Align and Translate](https://clojia.github.io/independent_research/2018-09-IR-Neural-Machine-Translation)
 
 ## WEEK 9
 - Open Category Classification by Adversarial Sample Generation
+- Large-Scale Evolution of Image Classifiers
