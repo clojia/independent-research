@@ -11,9 +11,11 @@ The paper proposed a new model for openset problem, which "extends OpenMax by em
 ## Approach
 The method proposed has two stages as well as OpenMax: Pre-Network training and score calibration.
 During Pre-Network traning stage, different with openmax, it first generate some unknown class samples (synthetic samples) then sent them along with known samples into networks for training.
+
 <img src="images/pre-network.png" width="500"> 
 
 The generated unknown samples also score calibrations.
+
 <img src="images/score-calibration.png" width="500"> 
 
 The difference is it used K+1 classes instead of K classes in both stages. And the 1 (unknown class) was generated beforehand, whose objective function as:
