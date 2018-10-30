@@ -9,7 +9,8 @@ The paper proposed a new architecture for machine translation model. Specificall
 
 ## Approach
 Just like traditional machine translation model, the proposed architecture consists of an encoder and a decoder. The encoder reads the input sentence, then convert into a vector, using an RNN such that:
-<img src="images/translation_encoder.png" width="200"> 
+
+<img src="images/translation_encoder.png" width="150"> 
 
 And the decoder "emulates searching through a source sentece during decoding a translation", which consits of three networks: g(), f() and a():
 
