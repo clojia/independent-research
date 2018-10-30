@@ -57,5 +57,5 @@ connection, analogous to insert-convolution mutation).
 
 And the avolutionary algorithm will select "the best model" according to highest validation accuracy.
 
-<img src="images/large-scale-evolution.png" width="500"> 
+<img src="images/large-scale-evolution.png" width="700"> 
 
