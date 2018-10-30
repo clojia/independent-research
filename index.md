@@ -3,11 +3,11 @@
 
 `papers` & `summaries` & `ideas` on `Machine Learning`
 
-## WEEK 1
+## Week 1
 - [Deep Learning](https://clojia.github.io/independent_research/2018-08-IR-DL)
 - [Learning a Neural-network-based Representation for Open Set Recognition](https://clojia.github.io/independent_research/2018-08-IR-Open-Set-Recognition)
 
-## WEEK 2
+## Week 2
 - [“Why Should I Trust You?” Explaining the Predictions of Any Classifier](https://clojia.github.io/independent_research/2018-08-IR-LIME)
 - [Towards Open Set Deep Networks](https://clojia.github.io/independent_research/2018-08-IR-Open-Max)
 
@@ -16,32 +16,32 @@
 - [Distributed Representations of Words and Phrases
 and their Compositionality](https://clojia.github.io/independent_research/2018-08-IR-Dist-Rep)
 
-## WEEK 4
+## Week 4
 - [Learning to Forget: Continual Prediction with LSTM](https://clojia.github.io/independent_research/2018-09-IR-LSTM)
 - [Generative Adversarial Nets](https://clojia.github.io/independent_research/2018-09-IR-GANs)
 
-## WEEK 5
+## Week 5
 - [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](https://clojia.github.io/independent_research/2018-09-IR-RNN-EnDecoder)
 - [On the Properties of Neural Machine Translation: Encoder-Decoder Approaches](https://clojia.github.io/independent_research/2018-09-IR-grConv)
 
 
-## WEEK 6
+## Week 6
 - [Glove: Global Vectors for Word Representation](https://clojia.github.io/independent_research/2018-09-IR-GloVe)
 - [Effective Approaches to Attention-based Neural Machine Translation](https://clojia.github.io/independent_research/2018-09-IR-MT-Attention)
 
-## WEEK 7
+## Week 7
 - [Adversarial Autoencoder](https://clojia.github.io/independent_research/2018-09-IR-Adversarial-Autoencoder)
 - [Look and Think Twice: Capturing Top-Down Visual Attention with Feedback Convolutional Neural Networks](https://clojia.github.io/independent_research/2018-09-IR-Look-and-Think-Twice)
 
-## WEEK 8
+## Week 8
 - [Generative OpenMax for Multi-Class Open Set Classification](https://clojia.github.io/independent_research/2018-09-IR-G-OpenMax)
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://clojia.github.io/independent_research/2018-09-IR-Neural-Machine-Translation)
 
-## WEEK 9
+## Week 9
 - Open Category Classification by Adversarial Sample Generation
 - Large-Scale Evolution of Image Classifiers
 
-## WEEK 10
+## Week 10
 - Open Set Learning with Counterfactual Images
 - Optimization as a Model For Few-shot Learning
 
