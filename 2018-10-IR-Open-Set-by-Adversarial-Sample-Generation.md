@@ -12,7 +12,7 @@ The paper proposed an Adversarial Sample Generation (ASG) framework for open-cat
 
 ### Generate Unseen Class Instances
 
-ASG tries to find find an instance taht is close to the seen class instances, but is recognisezed as unseen class by the discriminator. It considers each class separately, and generates samples one by one.
+ASG tries to find find an instance that is close to the seen class instances, but is recognisezed as unseen class by the discriminator. It considers each class separately, and generates samples one by one.
 
 To generate samples who are closeto the seen class data, it uses penalty term:
 
