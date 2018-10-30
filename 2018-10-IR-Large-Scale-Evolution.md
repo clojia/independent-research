@@ -12,7 +12,7 @@ To minimize human participation in neural network design, this paper employed ev
 
 ## Method
 
-### Evolutionary Algorithm & Mutation
+### Evolutionary Algorithm
 
 The method uses evolutionary algorithm to select the best of a pair to be a parent during tournament selection. Using pairwise comparisons instead of whole population operations. 
 <img src="images/Genetic-Algorithm-Tree-Basic-steps-of-GA-selection-crossover-and-mutation.jpg" width="500"> 
@@ -22,6 +22,8 @@ Individual architectures are encoded as a graph. Activation functions are applie
 (1) batch-normalization with rectified linear units
 
 (2) plain linear units
+
+### Mutation
 
 A child is similar to its parent but involves mutation. Mutations forms were human designed, which include:
 
