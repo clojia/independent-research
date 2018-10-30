@@ -40,3 +40,11 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 ## WEEK 9
 - Open Category Classification by Adversarial Sample Generation
 - Large-Scale Evolution of Image Classifiers
+
+## WEEK 10
+- Open Set Learning with Counterfactual Images
+- Optimization as a Model For Few-shot Learning
+
+## Week 11
+- Nearest Neighbors Distance Ratio Open-set Classifier
+- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
