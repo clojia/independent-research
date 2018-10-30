@@ -33,11 +33,7 @@ A child is similar to its parent but involves mutation. Mutations forms were hum
 example).
 
 • INSERT-CONVOLUTION (inserts a convolution at a random
-location in the “convolutional backbone”, as in Figure
-1. The inserted convolution has 3 × 3 filters, strides
-of 1 or 2 at random, number of channels same as input.
-May apply batch-normalization and ReLU activation or
-none at random).
+location in the “convolutional backbone”).
 
 • REMOVE-CONVOLUTION.
 
