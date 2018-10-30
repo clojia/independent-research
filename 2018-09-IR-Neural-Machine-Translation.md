@@ -15,14 +15,17 @@ Just like traditional machine translation model, the proposed architecture consi
 And the decoder "emulates searching through a source sentece during decoding a translation", which consits of three networks: g(), f() and a():
 
 output (each conditional probability):
+
 <img src="images/translation_g.png" width="300"> 
 
 where c_i is the context vector, x is the input vector y is the output probability, and s is the hidden state of the RNN.
 
 hidden states:
+
 <img src="images/translation_f.png" width="150"> 
 
 attentions:
+
 <img src="images/translation_a.png" width="150"> 
 is an alignment model which scores how well the inputs around position j and the output at position i match.
 
