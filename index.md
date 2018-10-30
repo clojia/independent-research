@@ -38,12 +38,12 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 - [Neural Machine Translation by Jointly Learning to Align and Translate](https://clojia.github.io/independent_research/2018-10-IR-Neural-Machine-Translation)
 
 ## Week 9
-- Open Category Classification by Adversarial Sample Generation
-- Large-Scale Evolution of Image Classifiers
+- [Open Category Classification by Adversarial Sample Generation](https://clojia.github.io/independent_research/2018-10-IR-Open-Set-by-Adversarial-Sample-Generation)
+- [Large-Scale Evolution of Image Classifiers](https://clojia.github.io/independent_research/2018-10-IR-Large-Scale-Evolution)
 
 ## Week 10
-- Open Set Learning with Counterfactual Images
-- Optimization as a Model For Few-shot Learning
+- [Open Set Learning with Counterfactual Images](https://clojia.github.io/independent_research/2018-10-IR-Open-Set-Learning-with-Counterfactual-Images)
+- [Optimization as a Model For Few-shot Learning](https://clojia.github.io/independent_research/2018-10-IR-Few-Shot-Learning-Optimization)
 
 ## Week 11
 - Nearest Neighbors Distance Ratio Open-set Classifier
