@@ -48,3 +48,26 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 ## Week 11
 - [Nearest Neighbors Distance Ratio Open-set Classifier](https://clojia.github.io/independent_research/2018-10-IR-NNDR)
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://clojia.github.io/independent_research/2018-10-IR-Model-Agnostic-Meta-Learning)
+
+## Week 12
+- Open Set Domain Adaptation by Backpropagation
+- Conditional generative adversarial nets
+
+## Week 13
+- Distribution Networks for Open Set Learning
+- Unsupervised representation learning with deep convolutional generative
+adversarial networks
+
+## Week 14
+- ODN: Opening the Deep Network for Open-Set Action Recognition
+- 
+
+## Week 15
+- Open Set Recognition by Regularising Classifier with Fake Data Generated
+by Generative Adversarial Networks
+- 
+
+## Week 16
+- Unseen Class Discovery in Open-world Classification
+- 
+
