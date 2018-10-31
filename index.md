@@ -46,5 +46,5 @@ and their Compositionality](https://clojia.github.io/independent_research/2018-0
 - [Optimization as a Model For Few-shot Learning](https://clojia.github.io/independent_research/2018-10-IR-Few-Shot-Learning-Optimization)
 
 ## Week 11
-- Nearest Neighbors Distance Ratio Open-set Classifier
-- Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+- [Nearest Neighbors Distance Ratio Open-set Classifier](https://clojia.github.io/independent_research/2018-10-IR-NNDR)
+- [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://clojia.github.io/independent_research/2018-10-IR-Model-Agnostic-Meta-Learning)
