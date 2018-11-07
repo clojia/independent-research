@@ -50,8 +50,8 @@ and their Compositionality](https://clojia.github.io/independent-research/2018-0
 - [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://clojia.github.io/independent-research/2018-10-IR-Model-Agnostic-Meta-Learning)
 
 ## Week 12
-- Open Set Domain Adaptation by Backpropagation
-- Conditional generative adversarial nets
+- [Open Set Domain Adaptation by Backpropagation](https://clojia.github.io/independent-research/2018-11-IR-Open-Set-Domain-Adaptation-by-Backpropagation)
+- [Conditional generative adversarial nets](https://clojia.github.io/independent-research/2018-11-IR-Conditional-Generative-Adversarial-Nets)
 
 ## Week 13
 - Distribution Networks for Open Set Learning
