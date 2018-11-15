@@ -54,20 +54,20 @@ and their Compositionality](https://clojia.github.io/independent-research/2018-0
 - [Conditional generative adversarial nets](https://clojia.github.io/independent-research/2018-11-IR-Conditional-Generative-Adversarial-Nets)
 
 ## Week 13
-- Distribution Networks for Open Set Learning
-- Unsupervised representation learning with deep convolutional generative
-adversarial networks
+- [Unseen Class Discovery in Open-world Classification](https://clojia.github.io/independent-research/2018-11-IR-Unseen-Class-Discovery-In-Open-World-Classification)
+- [Unsupervised representation learning with deep convolutional generative
+adversarial networks](https://clojia.github.io/independent-research/2018-11-IR-DCGANs)
 
 ## Week 14
-- ODN: Opening the Deep Network for Open-Set Action Recognition
-- 
-
-## Week 15
 - Open Set Recognition by Regularising Classifier with Fake Data Generated
 by Generative Adversarial Networks
-- 
+- A Discriminative Feature Learning Approach for Deep Face Recognition
+
+## Week 15
+- Distribution Networks for Open Set Learning
+- Triplet-Center Loss for Multi-View 3D Object Retrieval
 
 ## Week 16
-- Unseen Class Discovery in Open-world Classification
-- 
+- ODN: Opening the Deep Network for Open-Set Action Recognition
+- ArcFace: Additive Angular Margin Loss for Deep Face Recognition
 
