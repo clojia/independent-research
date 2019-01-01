@@ -16,6 +16,8 @@ Where c_y_i dentores the y_ith class center of deep features.
 
 The paper also introduced a mini-batch updating method to update c_y_i to make computation more efficient. The centers are updated by the features mean of the corresponding classes each iteration. The gradients of L_c and update function of c_y_i look like:
 
+<img src="images/center-loss-update.png" width="300"> 
+
 
 The joint loss function of softmax loss and center loss looks like:
 
