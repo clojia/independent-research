@@ -59,13 +59,13 @@ and their Compositionality](https://clojia.github.io/independent-research/2018-0
 adversarial networks](https://clojia.github.io/independent-research/2018-11-IR-DCGANs)
 
 ## Week 14
-- Open Set Recognition by Regularising Classifier with Fake Data Generated
-by Generative Adversarial Networks
-- A Discriminative Feature Learning Approach for Deep Face Recognition
+- [Open Set Recognition by Regularising Classifier with Fake Data Generated
+by Generative Adversarial Networks](https://clojia.github.io/independent-research/2018-12-IR-GAN-MDFM)
+- [A Discriminative Feature Learning Approach for Deep Face Recognition](https://clojia.github.io/independent-research/2018-12-IR-Center-Loss)
 
 ## Week 15
-- Distribution Networks for Open Set Learning
-- Triplet-Center Loss for Multi-View 3D Object Retrieval
+- [Distribution Networks for Open Set Learning](https://clojia.github.io/independent-research/2018-12-IR-Distribution-Networks)
+- [Triplet-Center Loss for Multi-View 3D Object Retrieval](https://clojia.github.io/independent-research/2018-12-IR-Triplet-Center-Loss)
 
 ## Week 16
 - ODN: Opening the Deep Network for Open-Set Action Recognition
