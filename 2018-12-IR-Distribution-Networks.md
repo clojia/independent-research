@@ -23,5 +23,5 @@ Where p_k denotes the Gaussian probability density function:
 
 For each known class, If a test sample not belong any of the seen class, then the system would generate a new distribution for the novel class, whose parameters are estimated by a transfer strategy in validation process.
 
-##Limitation
+## Limitation
 The assumption of Gaussian distribution does not always hold water.
