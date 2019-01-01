@@ -16,7 +16,7 @@ which contains one generator, one classifier, one feature extractor and two auto
 
 <img src="images/MDAD-classifier.png" width="230"> 
 
-where H(p_c(y|x)) is the entropy of the membership probability.
+where H(p_c(y||x)) is the entropy of the membership probability.
 
 The system intends to generate fake data close to feature space of positive data,
 thus the objective function looks like 
