@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) | [Last](https://clojia.github.io/independent_research/2018-09-IR-GloVe) 
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/)
 
 ## Index
 Luong, M.-T., Pham, H., and Manning, C. D. Effective approaches to attention-based neural
