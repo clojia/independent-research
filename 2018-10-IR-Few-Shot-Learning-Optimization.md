@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/)
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/)
 
 ## Index
 Ravi, Sachin, and Hugo Larochelle. "Optimization as a model for few-shot learning." (2016).
