@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) 
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) 
 
 ## Index
 Neal, Lawrence, et al. "Open Set Learning with Counterfactual Images." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
