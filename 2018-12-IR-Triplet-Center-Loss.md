@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) 
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) 
 
 ## Index
 He, Xinwei, et al. "Triplet-Center Loss for Multi-View 3D Object Retrieval." arXiv preprint arXiv:1803.06189 (2018).
