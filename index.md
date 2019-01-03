@@ -68,6 +68,6 @@ by Generative Adversarial Networks](https://clojia.github.io/independent-researc
 - [Triplet-Center Loss for Multi-View 3D Object Retrieval](https://clojia.github.io/independent-research/2018-12-IR-Triplet-Center-Loss)
 
 ## Week 16
-- ODN: Opening the Deep Network for Open-Set Action Recognition
-- ArcFace: Additive Angular Margin Loss for Deep Face Recognition
+- [ODN: Opening the Deep Network for Open-Set Action Recognition](https://clojia.github.io/independent-research/2018-12-IR-ODN)
+- [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://clojia.github.io/independent-research/2018-12-IR-ArcFace)
 
