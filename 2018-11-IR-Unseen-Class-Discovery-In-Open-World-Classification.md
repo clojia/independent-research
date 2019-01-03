@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) 
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) 
 
 ## Index
 Shu, Lei, Hu Xu, and Bing Liu. "Unseen Class Discovery in Open-world Classification." arXiv preprint arXiv:1801.05609 (2018).
