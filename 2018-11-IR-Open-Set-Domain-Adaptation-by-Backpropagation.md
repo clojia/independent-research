@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) 
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) 
 
 ## Index
 Saito, Kuniaki, et al. "Open Set Domain Adaptation by Backpropagation." arXiv preprint arXiv:1804.10427 (2018).
