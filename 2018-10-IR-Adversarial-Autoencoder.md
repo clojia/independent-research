@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) | [Last](https://clojia.github.io/independent-research/2018-09-IR-MT-Attention) | [Next](https://clojia.github.io/independent-research/2018-09-IR-Look-and-Think-Twice)
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) 
 
 ## Index
 Alireza Makhzani, Jonathon Shlens, Navdeep Jaitly, and Ian Goodfellow. Adversarial Autoencoders. arXiv preprint arXiv:1511.05644, 2015.
