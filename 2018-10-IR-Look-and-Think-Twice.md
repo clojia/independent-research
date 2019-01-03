@@ -1,5 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) | [Last](https://clojia.github.io/independent_research/2018-10-IR-Look-and-Think-Twice)
-
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/)
 ## Index
 C. Cao, X. Liu, Y. Yang, Y. Yu, J. Wang, Z. Wang, Y. Huang,
 L. Wang, C. Huang, W. Xu, et al. Look and think twice: Capturing
