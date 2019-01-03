@@ -1,5 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) | [Last](https://clojia.github.io/independent_research/2018-09-IR-LSTM) | [Next](https://clojia.github.io/independent_research/2018-09-IR-grConv)
-
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) 
 ## Index
 K. Cho, B. Merrienboer, C. Gulcehre, F. Bougares, H. Schwenk, and Y. Bengio. Learning phrase representations
 using RNN encoder-decoder for statistical machine translation. In Arxiv preprint arXiv:1406.1078,
