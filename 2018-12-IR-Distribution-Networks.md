@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) 
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) 
 
 ## Index
 Mao, C.; Yao, L.; Luo, Y. Distribution Networks for Open Set Learning. arXiv 2018, arXiv:1809.08106.
