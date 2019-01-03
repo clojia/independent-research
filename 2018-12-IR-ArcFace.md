@@ -1,4 +1,6 @@
 
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/)
+
 ## Index
 Deng, Jiankang, Jia Guo, and Stefanos Zafeiriou. "Arcface: Additive angular margin loss for deep face recognition." arXiv preprint arXiv:1801.07698 (2018).
 
