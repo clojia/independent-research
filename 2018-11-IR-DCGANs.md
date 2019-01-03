@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) 
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) 
 
 ## Index
 Radford, Alec, Luke Metz, and Soumith Chintala. "Unsupervised representation learning with deep convolutional generative adversarial networks." arXiv preprint arXiv:1511.06434 (2015).
