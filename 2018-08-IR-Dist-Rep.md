@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) | [Last](https://clojia.github.io/independent_research/2018-08-IR-RNN-BP) | [Next](https://clojia.github.io/independent_research/2018-09-IR-LSTM)
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) | [Last](https://clojia.github.io/independent_research/2018-08-IR-RNN-BP) | [Next](https://clojia.github.io/independent_research/2018-09-IR-LSTM)
 
 ## Index
 Mikolov, Tomas, Sutskever, Ilya, Chen, Kai, Corrado, Greg S, and Dean, Jeff. Distributed representations
