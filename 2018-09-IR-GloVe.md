@@ -1,4 +1,4 @@
-[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent_research/) | [Last](https://clojia.github.io/independent_research/2018-09-IR-grConv) | [Next](https://clojia.github.io/independent_research/2018-09-IR-MT-Attention)
+[Home](https://clojia.github.io/) | [Independent Research](https://clojia.github.io/independent-research/) | [Last](https://clojia.github.io/independent-research/2018-09-IR-grConv) | [Next](https://clojia.github.io/independent-research/2018-09-IR-MT-Attention)
 
 ## Index
 R. JeffreyPennington and C. Manning. Glove: Global vectors
