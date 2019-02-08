@@ -30,6 +30,9 @@ To further separate known and unknown samples, the paper pushed knownsamples int
 
 It penalizes the known classes if their feature maginitude is inside epsilon and unknown classes if their magnitude is greater than zero.
 
+<img src="images/objectosphere-deep-feature=magnitudes.png" width="700"> 
+
+
 - Evaluaton
 
 The paper also proposed False Positive Rate (FPR) and Correct Classification Rate (CCR) for open-set system.
