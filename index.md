@@ -71,5 +71,14 @@ by Generative Adversarial Networks](https://clojia.github.io/independent-researc
 - [ODN: Opening the Deep Network for Open-Set Action Recognition](https://clojia.github.io/independent-research/2018-12-IR-ODN)
 - [ArcFace: Additive Angular Margin Loss for Deep Face Recognition](https://clojia.github.io/independent-research/2018-12-IR-ArcFace)
 
-## Week 1
+## Week 2
 - [Co-Representation Learning For Classification and Novel Class Detection via Deep Networks](https://clojia.github.io/independent-research/2019-01-IR-RLCN)
+
+## Week 3
+- [Deep anomaly detection with outlier exposure.](https://clojia.github.io/independent-research/2019-01-IR-OE)
+
+## Week 4
+- [Reducing Network Agnostophobia](https://clojia.github.io/independent-research/2019-01-IR-Objectosphere)
+
+## Week 5
+- [Learning Deep Features for One-Class Classification](https://clojia.github.io/independent-research/2019-02-IR-DOC)
