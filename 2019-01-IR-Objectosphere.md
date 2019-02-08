@@ -8,7 +8,7 @@ This paper proposed Entropic Open-Set and Objectoshere losses for open set recog
 
 ## Method
 
-The work reduced the deep feature maginitude (||F(x)||) and maximize entropy of the softmax scores of unknown sample to separate them from known samples.
+The work reduced the deep feature maginitude (\|\|F(x)\|\|) and maximize entropy of the softmax scores of unknown sample to separate them from known samples.
 
 - Entropic Open-Set Loss
 
