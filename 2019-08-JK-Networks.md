@@ -23,11 +23,13 @@ The architecture of 4-layer JK-Net looks like:
 Where N.A. stands for neighborhood aggregation.
 
 ##### Influence Distribution and Random Walks
-The paper also defines influence score for any node as
+By measuring how much a change in the input feature y affects the representation of x in the last layer, the paper also defines influence score for any node as
 
 <img src="images/jump-score.png" width="300"> 
 
-The t-step random walk distribution P_t of v_0 is 
+to measure the sensitivity of node x to node y (or the influence of y on x).
+
+As the t-step random walk distribution P_t of v_0 is 
 
 <img src="images/jump-walk.png" width="150"> 
 
