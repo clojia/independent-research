@@ -82,3 +82,11 @@ by Generative Adversarial Networks](https://clojia.github.io/independent-researc
 
 ## Week 5
 - [Learning Deep Features for One-Class Classification](https://clojia.github.io/independent-research/2019-02-IR-DOC)
+
+## Week 1
+- [Semi-supervised classification with graph convolutional networks](https://clojia.github.io/independent-research/2019-08-GCN)
+- [Large-scale malware classification using random projections and neural networks](https://clojia.github.io/independent-research/2019-08-Random-Projection-Malware)
+
+## Week 2
+- [Line: Large-scale information network embedding](https://clojia.github.io/independent-research/2019-08-LINE)
+- [Representation learning on graphs with jumping knowledge networks](https://clojia.github.io/independent-research/2019-08-JK-Networks)
