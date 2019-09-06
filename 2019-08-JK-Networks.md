@@ -29,6 +29,6 @@ The paper also defines influence score for any node as
 
 The t-step random walk distribution P_t of v_0 is 
 
-<img src="images/jump-walk.png" width="300"> 
+<img src="images/jump-walk.png" width="150"> 
 
 It can be proved that the influence distribution I_x for any node is equivalent to the k-step random walk distribution on graph starting at node x.
