@@ -4,19 +4,18 @@
 `papers` & `summaries` & `ideas` on `Machine Learning`
 
 ## Recent Readings
-|Date | Paper|
-|---- | ----|
-|01/16/2020 | [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marder Discovery](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_12)|
-|01/23/2020 | [A Survey on GANs for Anomaly Detection](https://arxiv.org/pdf/1906.11632.pdf)|
-|01/30/2020 | [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Network](https://arxiv.org/pdf/1406.6909.pdf)|
-|02/06/2020 | [Adversarial Feature Learning](https://arxiv.org/pdf/1605.09782.pdf)|
-|02/13/2020 | [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704.pdf)|
-|02/20/2020 | [Extracting and Composing Robust Features with Denoising Autoencoders](https://dl.acm.org/doi/abs/10.1145/1390156.1390294)
-|02/27/2020 | [Efficient GAN-Based Anomaly Detection](https://arxiv.org/pdf/1802.06222.pdf)|
-|03/05/2020 | [GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training](https://arxiv.org/pdf/1805.06725.pdf) <br> [Skip-GANomaly: Skip Connected and Adversarially Trained Encoder-Decoder Anomaly Detection](https://arxiv.org/pdf/1901.08954.pdf)|
-|03/19/2020 | [Adversarially learned anomaly detection](https://arxiv.org/pdf/1812.02288.pdf)|
-|03/26/2020 | [DOPING: Generative data augmentation for unsupervised anomaly detection with GAN](https://arxiv.org/pdf/1808.07632.pdf)|
-{:.table-striped}
+
+- 01/16/2020: [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marder Discovery](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_12)
+- 01/23/2020: [A Survey on GANs for Anomaly Detection](https://arxiv.org/pdf/1906.11632.pdf)
+- 01/30/2020: [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Network](https://arxiv.org/pdf/1406.6909.pdf)
+- 02/06/2020: [Adversarial Feature Learning](https://arxiv.org/pdf/1605.09782.pdf)
+- 02/13/2020: [Adversarially Learned Inference](https://arxiv.org/pdf/1606.00704.pdf)
+- 02/20/2020: [Extracting and Composing Robust Features with Denoising Autoencoders](https://dl.acm.org/doi/abs/10.1145/1390156.1390294)
+- 02/27/2020: [Efficient GAN-Based Anomaly Detection](https://arxiv.org/pdf/1802.06222.pdf)
+- 03/05/2020: [GANomaly: Semi-Supervised Anomaly Detection via Adversarial Training](https://arxiv.org/pdf/1805.06725.pdf) <br>
+              [Skip-GANomaly: Skip Connected and Adversarially Trained Encoder-Decoder Anomaly Detection](https://arxiv.org/pdf/1901.08954.pdf)
+- 03/19/2020: [Adversarially learned anomaly detection](https://arxiv.org/pdf/1812.02288.pdf)
+- 03/26/2020: [DOPING: Generative data augmentation for unsupervised anomaly detection with GAN](https://arxiv.org/pdf/1808.07632.pdf)
 
 
 ## Week 1
