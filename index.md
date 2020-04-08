@@ -16,6 +16,8 @@
               [Skip-GANomaly: Skip Connected and Adversarially Trained Encoder-Decoder Anomaly Detection](https://arxiv.org/pdf/1901.08954.pdf)
 - 03/19/2020: [Adversarially learned anomaly detection](https://arxiv.org/pdf/1812.02288.pdf)
 - 03/26/2020: [DOPING: Generative data augmentation for unsupervised anomaly detection with GAN](https://arxiv.org/pdf/1808.07632.pdf)
+- 04/02/2020: [Generative probabilistic novelty detection with adversarial autoencoders](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf)
+- 04/09/2020: [Adversarially learned one-class classifier for novelty detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sabokrou_Adversarially_Learned_One-Class_CVPR_2018_paper.pdf)
 
 
 ## Week 1
