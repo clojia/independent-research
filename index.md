@@ -18,6 +18,8 @@
 - 03/26/2020: [DOPING: Generative data augmentation for unsupervised anomaly detection with GAN](https://arxiv.org/pdf/1808.07632.pdf)
 - 04/02/2020: [Generative probabilistic novelty detection with adversarial autoencoders](http://papers.nips.cc/paper/7915-generative-probabilistic-novelty-detection-with-adversarial-autoencoders.pdf)
 - 04/09/2020: [Adversarially learned one-class classifier for novelty detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sabokrou_Adversarially_Learned_One-Class_CVPR_2018_paper.pdf)
+- 04/16/2020: [Fence GAN: towards better anomaly detection](https://arxiv.org/pdf/1904.01209.pdf)
+- 04/23/2020: [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816.pdf)
 
 
 ## Week 1
