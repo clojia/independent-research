@@ -20,6 +20,9 @@
 - 04/09/2020: [Adversarially learned one-class classifier for novelty detection](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sabokrou_Adversarially_Learned_One-Class_CVPR_2018_paper.pdf)
 - 04/16/2020: [Fence GAN: towards better anomaly detection](https://arxiv.org/pdf/1904.01209.pdf)
 - 04/23/2020: [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816.pdf)
+- 04/30/2020: [Novelty Detection with GAN](https://arxiv.org/pdf/1802.10560.pdf)
+- 05/07/2020: [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations](https://arxiv.org/pdf/1903.08550.pdf)
+
 
 
 ## Week 1
