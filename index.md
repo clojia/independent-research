@@ -22,8 +22,8 @@
 - 04/23/2020: [Generative Adversarial Active Learning for Unsupervised Outlier Detection](https://arxiv.org/pdf/1809.10816.pdf)
 - 04/30/2020: [Novelty Detection with GAN](https://arxiv.org/pdf/1802.10560.pdf)
 - 05/07/2020: [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations](https://arxiv.org/pdf/1903.08550.pdf)
-
-
+- 07/21/2020: [Learning Discriminative Reconstructions for Unsupervised Outlier Removal](https://openaccess.thecvf.com/content_iccv_2015/papers/Xia_Learning_Discriminative_Reconstructions_ICCV_2015_paper.pdf)
+- 07/28/2020: [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations](https://arxiv.org/pdf/1803.07728.pdf)
 
 ## Week 1
 - [Deep Learning](https://clojia.github.io/independent-research/2018-08-IR-DL)
