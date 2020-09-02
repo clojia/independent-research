@@ -27,6 +27,7 @@
 - 08/04/2020: [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf)
 - 08/18/2020: [Self-Supervised Representation Learning by Rotation Feature Decoupling](https://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf)
 - 08/27/2020: [Classification-Based Anomaly Detection for General Data](https://openreview.net/pdf?id=H1lK_lBtvS)
+- 09/03/2020: [Generative-discriminative Feature Representations for Open-set Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perera_Generative-Discriminative_Feature_Representations_for_Open-Set_Recognition_CVPR_2020_paper.pdf)
 
 ## Week 1
 - [Deep Learning](https://clojia.github.io/independent-research/2018-08-IR-DL)
