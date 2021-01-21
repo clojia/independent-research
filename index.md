@@ -5,6 +5,8 @@
 
 ## Recent Readings
 
+### 2020
+
 - 01/16/2020: [Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marder Discovery](https://link.springer.com/chapter/10.1007/978-3-319-59050-9_12)
 - 01/23/2020: [A Survey on GANs for Anomaly Detection](https://arxiv.org/pdf/1906.11632.pdf)
 - 01/30/2020: [Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Network](https://arxiv.org/pdf/1406.6909.pdf)
@@ -28,11 +30,21 @@
 - 08/18/2020: [Self-Supervised Representation Learning by Rotation Feature Decoupling](https://openaccess.thecvf.com/content_CVPR_2019/papers/Feng_Self-Supervised_Representation_Learning_by_Rotation_Feature_Decoupling_CVPR_2019_paper.pdf)
 - 08/27/2020: [Classification-Based Anomaly Detection for General Data](https://openreview.net/pdf?id=H1lK_lBtvS)
 - 09/03/2020: [Generative-discriminative Feature Representations for Open-set Recognition](https://openaccess.thecvf.com/content_CVPR_2020/papers/Perera_Generative-Discriminative_Feature_Representations_for_Open-Set_Recognition_CVPR_2020_paper.pdf)
-- 09/10/2020: [Deep Clustering for Unsupervised Learning
-of Visual Features](https://openaccess.thecvf.com/content_ECCV_2018/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf)
-- 09/17/2020: [Self-labelling via simultaneously clustering and representation
-learning](https://arxiv.org/pdf/1911.05371.pdf)
+- 09/10/2020: [Deep Clustering for Unsupervised Learning of Visual Features(https://openaccess.thecvf.com/content_ECCV_2018/papers/Mathilde_Caron_Deep_Clustering_for_ECCV_2018_paper.pdf)
+- 09/17/2020: [Self-labelling via simultaneously clustering and representation learning](https://arxiv.org/pdf/1911.05371.pdf)
+- 09/24/2020: [Automatically Discovering and Learning New Visual Categories with Ranking Statistics](https://arxiv.org/pdf/2002.05714.pdf)
+- 10/01/2020: [Unsupervised Clustering using Pseudo-semi-supervised Learning](https://openreview.net/pdf?id=rJlnxkSYPS)
+- 10/08/2020: [Multi-class classification without multiclass labels](https://arxiv.org/pdf/1901.00544.pdf)
+- 10/15/2020: [Learning to Discover Novel Visual Categories via Deep Transfer Clustering](https://arxiv.org/pdf/1908.09884.pdf)
+- 10/22/2020: [Unsupervised deep embedding for clustering analysis](https://arxiv.org/pdf/1511.06335.pdf)
+- 10/29/2020: [Deep Adaptive Image Clustering](https://openaccess.thecvf.com/content_ICCV_2017/papers/Chang_Deep_Adaptive_Image_ICCV_2017_paper.pdf)
+- 11/05/2020: [Deep Clustering via Joint Convolutional Autoencoder Embedding and Relative Entropy Minimization](https://arxiv.org/pdf/1704.06327.pdf)
+- 11/12/2020: [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/pdf/1807.06653.pdf)
+- 11/19/2020: [Learning discrete representations via information maximizing self augmented training](https://arxiv.org/pdf/1702.08720.pdf)
 
+### 2021
+- 01/14/2021: [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf)
+- 01/21/2021: [Associative Deep Clustering: Training a Classification Network with No Labels](https://cvai.in.tum.de/_media/spezial/bib/haeusser18associative.pdf)
 
 ## Week 1
 - [Deep Learning](https://clojia.github.io/independent-research/2018-08-IR-DL)
