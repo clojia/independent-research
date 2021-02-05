@@ -41,8 +41,6 @@
 - 11/05/2020: [Deep Clustering via Joint Convolutional Autoencoder Embedding and Relative Entropy Minimization](https://arxiv.org/pdf/1704.06327.pdf)
 - 11/12/2020: [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/pdf/1807.06653.pdf)
 - 11/19/2020: [Learning discrete representations via information maximizing self augmented training](https://arxiv.org/pdf/1702.08720.pdf)
-- 11/19/2020: [Learning discrete representations via information maximizing self augmented training](https://arxiv.org/pdf/1702.08720.pdf)
-
 
 ### 2021
 - 01/14/2021: [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf)
