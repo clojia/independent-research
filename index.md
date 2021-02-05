@@ -41,10 +41,17 @@
 - 11/05/2020: [Deep Clustering via Joint Convolutional Autoencoder Embedding and Relative Entropy Minimization](https://arxiv.org/pdf/1704.06327.pdf)
 - 11/12/2020: [Invariant Information Clustering for Unsupervised Image Classification and Segmentation](https://arxiv.org/pdf/1807.06653.pdf)
 - 11/19/2020: [Learning discrete representations via information maximizing self augmented training](https://arxiv.org/pdf/1702.08720.pdf)
+- 11/19/2020: [Learning discrete representations via information maximizing self augmented training](https://arxiv.org/pdf/1702.08720.pdf)
+
 
 ### 2021
 - 01/14/2021: [Deep Continuous Clustering](https://arxiv.org/pdf/1803.01449.pdf)
 - 01/21/2021: [Associative Deep Clustering: Training a Classification Network with No Labels](https://cvai.in.tum.de/_media/spezial/bib/haeusser18associative.pdf)
+- 01/28/2021: [Self-Supervised Relational Reasoning for Representation Learning](https://proceedings.neurips.cc/paper/2020/file/29539ed932d32f1c56324cded92c07c2-Paper.pdf)
+- 02/04/2021: [Automatic Shortcut Removal for Self-Supervised Representation Learning](https://arxiv.org/pdf/2002.08822.pdf)
+- 02/11/2021: [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf)
+- 02/18/2021: [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)
+- 02/25/2021: [Deep Transformation-Invariant Clustering](https://papers.nips.cc/paper/2020/file/5a5eab21ca2a8fef4af5e35709ecca15-Paper.pdf)
 
 ## Week 1
 - [Deep Learning](https://clojia.github.io/independent-research/2018-08-IR-DL)
