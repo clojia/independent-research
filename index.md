@@ -50,6 +50,16 @@
 - 02/11/2021: [Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/pdf/2006.10029.pdf)
 - 02/18/2021: [Unsupervised Learning of Visual Features by Contrasting Cluster Assignments](https://arxiv.org/pdf/2006.09882.pdf)
 - 02/25/2021: [Deep Transformation-Invariant Clustering](https://papers.nips.cc/paper/2020/file/5a5eab21ca2a8fef4af5e35709ecca15-Paper.pdf)
+- 03/04/2021: [Self-Supervised Learning for Generalizable Out-of-Distribution Detection](http://people.tamu.edu/~sina.mohseni/papers/Self_Supervised_Learning_for_Generalizable_Out_of_Distribution_Detection.pdf)
+- 03/11/2021: [Multi-class Data Description for Out-of-distribution Detection](https://dl.acm.org/doi/pdf/10.1145/3394486.3403189)
+- 03/18/2021: [Conditional Gaussian Distribution Learning for Open Set Recognition](https://arxiv.org/pdf/2003.08823.pdf)
+- 03/25/2021: [Generalized ODIN: Detecting Out-of-Distribution Image Without Learning From Out-of-Distribution Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hsu_Generalized_ODIN_Detecting_Out-of-Distribution_Image_Without_Learning_From_Out-of-Distribution_Data_CVPR_2020_paper.pdf)
+- 04/01/2021: [Few-Shot Open-Set Recognition using Meta-Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Few-Shot_Open-Set_Recognition_Using_Meta-Learning_CVPR_2020_paper.pdf)
+- 04/08/2021: [Self-Supervised Learning of Pretext-Invariant Representations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Misra_Self-Supervised_Learning_of_Pretext-Invariant_Representations_CVPR_2020_paper.pdf)
+- 04/15/2021: [How Useful Is Self-Supervised Pretraining for Visual Tasks?](https://openaccess.thecvf.com/content_CVPR_2020/papers/Newell_How_Useful_Is_Self-Supervised_Pretraining_for_Visual_Tasks_CVPR_2020_paper.pdf)
+- 04/22/2021: [Online Deep Clustering for Unsupervised Representation Learning](https://arxiv.org/pdf/2006.10645.pdf)
+- 04/29/2021: [Convolutional Neural Networks with Compression Complexity Pooling for Out-of-Distribution Image Detection](https://www.ijcai.org/Proceedings/2020/0337.pdf)
+- 05/06/2021: [Unsupervised Representation Learning by Predicting Random Distances](https://arxiv.org/pdf/1912.12186.pdf)
 
 ## Week 1
 - [Deep Learning](https://clojia.github.io/independent-research/2018-08-IR-DL)
