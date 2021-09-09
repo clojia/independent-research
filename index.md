@@ -61,6 +61,8 @@
 - 04/29/2021: [Online Deep Clustering for Unsupervised Representation Learning](https://arxiv.org/pdf/2006.10645.pdf)
 - 05/06/2021: [Convolutional Neural Networks with Compression Complexity Pooling for Out-of-Distribution Image Detection](https://www.ijcai.org/Proceedings/2020/0337.pdf)
 - 05/13/2021: [Unsupervised Representation Learning by Predicting Random Distances](https://arxiv.org/pdf/1912.12186.pdf)
+- 08/26/2021: [C2ae: Class conditioned auto-encoder for open-set recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Oza_C2AE_Class_Conditioned_Auto-Encoder_for_Open-Set_Recognition_CVPR_2019_paper.pdf)
+- 09/09/2021: [Classification-reconstruction learning for open-set recognition](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yoshihashi_Classification-Reconstruction_Learning_for_Open-Set_Recognition_CVPR_2019_paper.pdf)
 
 ## Week 1
 - [Deep Learning](https://clojia.github.io/independent-research/2018-08-IR-DL)
